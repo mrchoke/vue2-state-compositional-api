@@ -921,6 +921,10 @@
     cssnano-preset-default "^4.0.0"
     postcss "^7.0.0"
 
+"@jsanahuja/notifierjs@https://github.com/jsanahuja/Notifierjs":
+  version "1.2.4"
+  resolved "https://github.com/jsanahuja/Notifierjs#369c3c41d0213a9cc8d7db8b0e911f0011676db9"
+
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
   resolved "https://registry.yarnpkg.com/@mrmlnc/readdir-enhanced/-/readdir-enhanced-2.2.1.tgz#524af240d1a360527b730475ecfa1344aa540dde"
