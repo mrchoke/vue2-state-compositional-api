@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Vue Composition API</h1>
+    <h1>Vue2 Composition API</h1>
     <p>
       <input type="text" v-model="SystemNoti.msg" />
     </p>
