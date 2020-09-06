@@ -1,12 +1,12 @@
 import Vue from 'vue'
-import VueCompositionAPI, { reactive, ref } from '@vue/composition-api'
+import VueCompositionAPI, { reactive } from '@vue/composition-api'
 import Notifier from '@jsanahuja/notifierjs'
 
 Vue.use(VueCompositionAPI)
 
 class SystemNoti {
-  type = ref('info')
-  msg = ref('Welcome')
+  type = 'info'
+  msg = 'Welcome'
 
   notifier = new Notifier({
     position: 'top-right',
